@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JangSeBaRi%20Github!&fontSize=70&animation=fadeIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JangSeBaRi%20Github!&fontSize=50&animation=fadeIn&fontAlignY=40)
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
